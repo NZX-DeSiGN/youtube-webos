@@ -75,3 +75,8 @@
   position: absolute !important;
   width: 100% !important;
 }
+
+/* Hide about results button */
+ytlr-about-results-button {
+  display: none !important;
+}
