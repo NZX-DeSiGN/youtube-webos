@@ -37,6 +37,13 @@ const configOptions = new Map([
       default: false,
       desc: 'Hide YouTube logo'
     }
+  ],
+  [
+    'showClock',
+    {
+      default: false,
+      desc: 'Replace logo with clock'
+    }
   ]
 ]);
 

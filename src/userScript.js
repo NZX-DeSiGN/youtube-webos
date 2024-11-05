@@ -14,6 +14,7 @@ document.addEventListener(
 
 import './adblock.js';
 import './shorts.js';
+import './clock.js';
 import './sponsorblock.js';
 import './ui.js';
 
