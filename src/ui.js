@@ -277,7 +277,3 @@ function applyUIFixes() {
 
 applyUIFixes();
 initHideLogo();
-
-setTimeout(() => {
-  showNotification('Press [GREEN] to open YTAF configuration screen');
-}, 2000);
